@@ -1,3 +1,3 @@
 # waterwave
 
-https://yeyint77.github.io/waterwave/index.html
+https://yeyint77.github.io/waterwave/waterwave.html
